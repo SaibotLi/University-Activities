@@ -1,0 +1,4 @@
+Rosa Ivana;43394492;3455283912;Mayor
+García Martín;39283746;3455209432;Cadete
+López Carolina;41875921;3455432034;Mayor
+Rodríguez Pablo;37502819;3455654210;Menor
